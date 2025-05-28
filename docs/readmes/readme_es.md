@@ -2,11 +2,11 @@
  <img width="150px" src="https://beeradmoore.github.io/dlss-swapper/logo_250.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">DLSS Swapper
 </h2>
- <p align="center">DLSS Swapper es una herramienta del programa que te permite descargar convenientemente, administrar, y cambiar <strong>DLSS</strong>, <strong>FSR</strong> y <strong>XeSS</strong> dlls permitiéndote poder actualizar y desgradar el DLSS, FSR y Xess dlls y, un juego sin precisar actualizar en él.</p>
+ <p align="center">DLSS Swapper es una herramienta del programa que te permite  descargar, administrar, y cambiar <strong>DLSS</strong>, <strong>FSR</strong> y <strong>XeSS</strong> dlls convenientemente, permitiéndote poder actualizar y desgradar la version de DLSS, FSR y XeSS en un juego sin necesidad de una actualización.</p>
 </p>
 
-> [!ADVERTENCIA]
-> Por favor, ten en cuenta que existen sitios maliciosos que afirman ser DLSS Swapper. Este es el **único** lugar donde encontrarás descargas oficiales. Consulta nuestros [enlaces oficiales](#enlaces-oficiales) para ver las cuentas y sitios afiliados a DLSS Swapper.
+> [¡ADVERTENCIA!]
+> Por favor, ten en cuenta que existen páginas falsas que intentan pasarse por DLSS Swapper. Este es el **único** lugar donde encontrarás descargas oficiales. Consulta nuestros [enlaces oficiales](#enlaces-oficiales) para ver las cuentas y sitios afiliados a DLSS Swapper.
 
 <p align="center">
     <a href="https://github.com/beeradmoore/dlss-swapper/releases"><img alt="Github Release" src="https://img.shields.io/github/v/release/beeradmoore/dlss-swapper" /></a>
@@ -18,9 +18,9 @@
 <p align="center">
     <a href="https://github.com/beeradmoore/dlss-swapper/releases">Versión</a>
     ·
-    <a href="https://github.com/beeradmoore/dlss-swapper/issues/new?template=bug_report.yml">Informar los Bugs</a>
+    <a href="https://github.com/beeradmoore/dlss-swapper/issues/new?template=bug_report.yml">Reportar un Bug</a>
     ·
-    <a href="https://github.com/beeradmoore/dlss-swapper/issues/new?template=feature_request.yml">Pedir recurso</a>
+    <a href="https://github.com/beeradmoore/dlss-swapper/issues/new?template=feature_request.yml">Solicitar Caracteristica</a>
 </p>
 
 <p align="center">
@@ -47,47 +47,47 @@
 - [Ubisoft Connect](https://www.ubisoft.com/)
 - [Xbox App](https://www.xbox.com/)
 - [Battle.net](https://shop.battle.net/)
-- Agregar manualmente a través del botón `Agregar Juego`.
+- Agregado manualmente a través del botón `Agregar Juego`.
 
-## ¿Por qué quieres cambiar el DLSS dlls in su juego?
+## ¿Por qué querrías cambiar el DLSS dlls en tu juego?
 
-Mira [este](https://youtube.com/clip/UgzYyeox3s7jFJZAvYF4AaABCQ) clip, o mejor mira este video completo ([Lego Builder's Journey Ray Tracing Showcase + DLSS 2.2 Upgrades Analysis](https://www.youtube.com/watch?v=dtbqJXb1UDw)) de la Digital Foundry. Disscussões de la DLSS 2.2 comienza in 11:40.
+Mira [este](https://youtube.com/clip/UgzYyeox3s7jFJZAvYF4AaABCQ) clip, o mejor mira el video completo ([Lego Builder's Journey Ray Tracing Showcase + DLSS 2.2 Upgrades Analysis](https://www.youtube.com/watch?v=dtbqJXb1UDw)) de Digital Foundry. Discusiónes de DLSS 2.2 comienzan en el minuto 11:40.
 
-## Observación
+## Toma en cuenta
 
-Esta herramienta **NO** permite que agregues DLSS en juego que no tiene soporte para el juego.
+Esta herramienta **NO** permite que añadas DLSS en juegos que no lo soportan.
 
-Esta herramienta **NO** permite que cambiar DLSS dlls va a:
+Esta herramienta **NO** garantiza que cambiar DLSS dlls vaya a:
 
-- Mejorar la performance de el DLSS.
-- Reduce los artefactos de el DLSS.
-- Ofrezca una experiencia sin trabas.
+- Mejorar el rendimiento de el DLSS.
+- Reducir los artefactos de DLSS.
+- Ofrecer una experiencia sin fallos.
 
-En varios casos puedes reparar algún problema, en otros usted puedes impedir que un juego se inicie.(hasta que usted los restaure su dll original, proporciona esa herramienta).
+En muchos casos, puedes solucionar algunos problemas; en otros, podrías impedir que el juego se inicie (hasta que restaures tu archivo DLL original, incluido en la herramienta).
 
-Buena experimentación. Como mi profesor universitario dijo una vez,
+Que te diviertas experimentando. Como decía mi profesor en la universidad:
 
-> La cosa buena sobre[ciencia] de la computación es que nunca vamos a morir pensando ‘Y si…’
+> La cosa buena sobre [la ciencia de] la computación es que nunca vamos a morir pensando ‘Que hubiese pasado si…’
 
-Por favor, ven y comparte su experiencia DLSS en [r/DLSS_Swapper](https://www.reddit.com/r/DLSS_Swapper/).
+Por favor, ven y comparte tu experiencia DLSS en [r/DLSS_Swapper](https://www.reddit.com/r/DLSS_Swapper/).
 
 ## ¿Como hago para obtenerlo?
 
-Puede obtener la última compilación en nosotros página web de [lanzamiento de el GitHub](https://github.com/beeradmoore/dlss-swapper/releases)
+Puedes conseguir las versiones mas recientes en nuestra [página de lanzamientos de GitHub](https://github.com/beeradmoore/dlss-swapper/releases)
 
 También puedes instalarlo con winget.
 
 > winget install --id=beeradmoore.dlss-swapper -e
 
-Estos son los únicos lugares oficiales para obtener DLSS Swapper.
+Estos son los únicos sitios oficiales para obtener DLSS Swapper.
 
-## Sería genial si el DLSS Swapper pudiera…
+## Molaría si el DLSS Swapper pudiera…
 
-Crear una [solicitación de recurso](https://github.com/beeradmoore/dlss-swapper/issues/new?template=feature_request.yml).
+Crear una [Solicita una característica](https://github.com/beeradmoore/dlss-swapper/issues/new?template=feature_request.yml).
 
 ## ¿Como puedo contribuir?
 
-Mas información sobre eso en breve…
+Mas información sobre esto pronto.
 
 ## Requisito Mínimos de el Sistema
 
@@ -102,4 +102,4 @@ Mas información sobre eso en breve…
 - Twitter: https://twitter.com/dlss_swapper
 - Reddit: https://www.reddit.com/r/DLSS_Swapper/
 
-Si has encontrado otras cuentas o sitios que afirman ser DLSS Swapper, por favor ignóralos (o mejor aún, [abre una issue](https://github.com/beeradmoore/dlss-swapper/issues/new?template=other_issue.yml) y avísanos).
+Si has encontrado otras cuentas o sitios que afirman ser DLSS Swapper, por favor ignóralos (o mejor aún, [repórtalo](https://github.com/beeradmoore/dlss-swapper/issues/new?template=other_issue.yml) y avísanos).
